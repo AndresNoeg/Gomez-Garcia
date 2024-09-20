@@ -1,7 +1,7 @@
 # Gomez-Garcia
 print (" ")
 
-print ("Gomez Garcia Andres Noe ")
+print ("Gomez Garcia Andres Noe: Practica 3 ")
 
 print (" ")
 
@@ -23,4 +23,5 @@ print (type(z))
 
 print (" ")
 
-![image](https://github.com/user-attachments/assets/cea9ae3a-9da8-4668-a001-fe3a024569fb)
+![image](https://github.com/user-attachments/assets/e6c828a4-8eaa-4df8-a695-731aabad7c4e)
+
